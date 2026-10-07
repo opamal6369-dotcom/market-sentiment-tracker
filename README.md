@@ -22,7 +22,7 @@ text), aggregates sentiment per trading day, and measures its correlation with *
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/market-sentiment-tracker.git
+git clone https://github.com/opamal6369-dotcom/market-sentiment-tracker.git
 cd market-sentiment-tracker
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
